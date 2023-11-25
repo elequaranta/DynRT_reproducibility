@@ -158,9 +158,10 @@ class onerun:
         y_pred = []
 
         self.model.zero_grad()
+
+        self.log.info('Total batch number: {}'.format(len(self.dataloaders["train"])))
         
         for i, batch in enumerate(self.dataloaders["train"]):
-                
             input={}
             for key in batch:
                 input[key]=batch[key].to(self.device)
@@ -182,6 +183,8 @@ class onerun:
             y_true.extend(input["label"].tolist())
 
             del input, scores, lang_feat, img_feat
+            if i == 0 or 1 == len(self.dataloaders["train"]) - 1:
+                self.log.info('Completed batch %d' % i)
         self.model.zero_grad()
 
         epoch_loss = running_loss / (len(self.dataloaders["train"]) * self.batch_size)

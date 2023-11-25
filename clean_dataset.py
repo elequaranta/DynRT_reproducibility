@@ -22,10 +22,6 @@ if __name__ == '__main__':
     train_text = load_file('input/prepared/train_text')
     train_labels = load_file('input/prepared/train_labels')
 
-    test_json = json.load(open('HKEmodel_dataset/test.json', 'r', encoding='utf-8'))
-    valid_json = json.load(open('HKEmodel_dataset/val.json', 'r', encoding='utf-8'))
-    train_json = json.load(open('HKEmodel_dataset/train.json', 'r', encoding='utf-8'))
-
     test_id_new = []
     test_text_new = []
     test_labels_new = []
@@ -41,9 +37,6 @@ if __name__ == '__main__':
     pickle.dump(test_text_new, open('input/prepared_clean/test_text', 'wb'))
     pickle.dump(test_id_new, open('input/prepared_clean/test_id', 'wb'))
     pickle.dump(test_labels_new, open('input/prepared_clean/test_labels', 'wb'))
-
-    if len(test_json) == len(test_text_new):
-        print('test right!')
 
     train_id_new = []
     train_text_new = []
@@ -61,9 +54,6 @@ if __name__ == '__main__':
     pickle.dump(train_id_new, open('input/prepared_clean/train_id', 'wb'))
     pickle.dump(train_labels_new, open('input/prepared_clean/train_labels', 'wb'))
 
-    if len(train_json) == len(train_text_new):
-        print('train right!')
-
     valid_id_new = []
     valid_text_new = []
     valid_labels_new = []
@@ -79,7 +69,3 @@ if __name__ == '__main__':
     pickle.dump(valid_text_new, open('input/prepared_clean/valid_text', 'wb'))
     pickle.dump(valid_id_new, open('input/prepared_clean/valid_id', 'wb'))
     pickle.dump(valid_labels_new, open('input/prepared_clean/valid_labels', 'wb'))
-
-
-    if len(valid_json) == len(valid_text_new):
-        print('valid right!')
