@@ -26,7 +26,7 @@ class loader_img:
                 self.transform_image_path,
                 "{}.npy".format(self.id[mode][index])
             )
-        img = torch.from_numpy(np.load(img_path))
+        img = torch.from_numpy(np.load(img_path, allow_pickle=True))
         result["img"]=img
     
 

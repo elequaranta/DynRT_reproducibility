@@ -1,1 +1,2 @@
-/image_tensor
+/image_tensor/*.npy
+/dataset_image/*.jpg
