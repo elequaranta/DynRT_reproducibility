@@ -183,8 +183,7 @@ class onerun:
             y_true.extend(input["label"].tolist())
 
             del input, scores, lang_feat, img_feat
-            if i == 0 or 1 == len(self.dataloaders["train"]) - 1:
-                self.log.info('Completed batch %d' % i)
+            self.log.info('Completed batch %d' % i)
         self.model.zero_grad()
 
         epoch_loss = running_loss / (len(self.dataloaders["train"]) * self.batch_size)
