@@ -2344,14 +2344,8 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Sinha:2022</bcf:citekey>
-    <bcf:citekey order="1">Sinha:2021</bcf:citekey>
-    <bcf:citekey order="1">Sinha:2020</bcf:citekey>
-    <bcf:citekey order="1">Pineau:2019</bcf:citekey>
-    <bcf:citekey order="2">Sinha:2022</bcf:citekey>
-    <bcf:citekey order="3">Sinha:2021</bcf:citekey>
-    <bcf:citekey order="4">Sinha:2020</bcf:citekey>
-    <bcf:citekey order="5">Pineau:2019</bcf:citekey>
+    <bcf:citekey order="1">tian-etal-2023-dynamic</bcf:citekey>
+    <bcf:citekey order="2">tian-etal-2023-dynamic</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

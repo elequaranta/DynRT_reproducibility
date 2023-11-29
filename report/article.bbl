@@ -19,258 +19,81 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{Sinha:2022}{article}{}
-      \name{author}{7}{}{%
-        {{hash=f85e0bd769b7b8e65097523ebf9cdfa6}{%
-           family={Sinha},
-           familyi={S\bibinitperiod},
-           given={Koustuv},
-           giveni={K\bibinitperiod}}}%
-        {{hash=59f4d94be729cf6353e7e169a54a92c2}{%
-           family={Dodge},
-           familyi={D\bibinitperiod},
-           given={Jesse},
-           giveni={J\bibinitperiod}}}%
-        {{hash=7ada5ab3bf09bd35fa7e21580f5035ec}{%
-           family={Luccioni},
-           familyi={L\bibinitperiod},
-           given={Sasha},
-           giveni={S\bibinitperiod}}}%
-        {{hash=214f3fce9969015584f036f43fdefd4e}{%
-           family={Forde},
-           familyi={F\bibinitperiod},
-           given={Jessica\bibnamedelima Zosa},
-           giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
-        {{hash=597f31280a30aa5d83f274e04617aeb0}{%
-           family={Raparthy},
+    \entry{tian-etal-2023-dynamic}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=d12eaa4bcfe35e37d08f0d3d058861fd}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=be5a888e647feea4c9160b35187f1a63}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Nan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f1be8e8ecdc244dbbb99918cd0a17881}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ruike},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d040f29a3a9bdf06f9afa70b2f266303}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Wenji},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=d41347f273c226091f12a17225bb356a}{%
+           family={Rogers},
            familyi={R\bibinitperiod},
-           given={Sharath\bibnamedelima Chandra},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=5b77dedc7f77ff84caad46064e6e3cbb}{%
-           family={Pineau},
-           familyi={P\bibinitperiod},
-           given={Joelle},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a4f042894bd8d9a67882ad8fe0c379ce}{%
+           family={Boyd-Graber},
+           familyi={B\bibinithyphendelim G\bibinitperiod},
+           given={Jordan},
            giveni={J\bibinitperiod}}}%
-        {{hash=5f64b32e164398414aabe27f1af0140e}{%
-           family={Stojnic},
-           familyi={S\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
+        {{hash=c1848c9de6e6dd0f9eaf2c08799e9e2f}{%
+           family={Okazaki},
+           familyi={O\bibinitperiod},
+           given={Naoaki},
+           giveni={N\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {Python}%
+      \list{location}{1}{%
+        {Toronto, Canada}%
       }
-      \strng{namehash}{1dab4f587ee0f208312b4e0c06a68fbf}
-      \strng{fullhash}{d64446ed12bbeb14b51a93611c8c6661}
-      \strng{bibnamehash}{d64446ed12bbeb14b51a93611c8c6661}
-      \strng{authorbibnamehash}{d64446ed12bbeb14b51a93611c8c6661}
-      \strng{authornamehash}{1dab4f587ee0f208312b4e0c06a68fbf}
-      \strng{authorfullhash}{d64446ed12bbeb14b51a93611c8c6661}
-      \field{extraname}{1}
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{d3c76a10b55975bb6b4c1cf5b95074bd}
+      \strng{fullhash}{6dce55db447116c504d6534ee13a98fe}
+      \strng{bibnamehash}{6dce55db447116c504d6534ee13a98fe}
+      \strng{authorbibnamehash}{6dce55db447116c504d6534ee13a98fe}
+      \strng{authornamehash}{d3c76a10b55975bb6b4c1cf5b95074bd}
+      \strng{authorfullhash}{6dce55db447116c504d6534ee13a98fe}
+      \strng{editorbibnamehash}{d48170eb3f2753595c93a652fafe3e7a}
+      \strng{editornamehash}{d48170eb3f2753595c93a652fafe3e7a}
+      \strng{editorfullhash}{d48170eb3f2753595c93a652fafe3e7a}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{ReScience C}
-      \field{month}{5}
-      \field{number}{2}
-      \field{title}{{ML Reproducibility Challenge 2021}}
-      \field{type}{Editorial}
-      \field{volume}{8}
-      \field{year}{2022}
-      \field{pages}{#48}
-      \range{pages}{-1}
+      \field{abstract}{Multimodal sarcasm detection is an important research topic in natural language processing and multimedia computing, and benefits a wide range of applications in multiple domains. Most existing studies regard the incongruity between image and text as the indicative clue in identifying multimodal sarcasm. To capture cross-modal incongruity, previous methods rely on fixed architectures in network design, which restricts the model from dynamically adjusting to diverse image-text pairs. Inspired by routing-based dynamic network, we model the dynamic mechanism in multimodal sarcasm detection and propose the Dynamic Routing Transformer Network (DynRT-Net). Our method utilizes dynamic paths to activate different routing transformer modules with hierarchical co-attention adapting to cross-modal incongruity. Experimental results on a public dataset demonstrate the effectiveness of our method compared to the state-of-the-art methods. Our codes are available at \url{https://github.com/TIAN-viola/DynRT}.}
+      \field{booktitle}{Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}
+      \field{month}{7}
+      \field{title}{Dynamic Routing Transformer Network for Multimodal Sarcasm Detection}
+      \field{year}{2023}
+      \field{pages}{2468\bibrangedash 2480}
+      \range{pages}{13}
       \verb{doi}
-      \verb 10.5281/zenodo.6574723
+      \verb 10.18653/v1/2023.acl-long.139
       \endverb
       \verb{urlraw}
-      \verb https://zenodo.org/record/6574723/files/article.pdf
+      \verb https://aclanthology.org/2023.acl-long.139
       \endverb
       \verb{url}
-      \verb https://zenodo.org/record/6574723/files/article.pdf
+      \verb https://aclanthology.org/2023.acl-long.139
       \endverb
-      \keyw{rescience c,machine learning,deep learning,python,pytorch}
-    \endentry
-    \entry{Sinha:2021}{article}{}
-      \name{author}{6}{}{%
-        {{hash=f85e0bd769b7b8e65097523ebf9cdfa6}{%
-           family={Sinha},
-           familyi={S\bibinitperiod},
-           given={Koustuv},
-           giveni={K\bibinitperiod}}}%
-        {{hash=59f4d94be729cf6353e7e169a54a92c2}{%
-           family={Dodge},
-           familyi={D\bibinitperiod},
-           given={Jesse},
-           giveni={J\bibinitperiod}}}%
-        {{hash=7ada5ab3bf09bd35fa7e21580f5035ec}{%
-           family={Luccioni},
-           familyi={L\bibinitperiod},
-           given={Sasha},
-           giveni={S\bibinitperiod}}}%
-        {{hash=214f3fce9969015584f036f43fdefd4e}{%
-           family={Forde},
-           familyi={F\bibinitperiod},
-           given={Jessica\bibnamedelima Zosa},
-           giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
-        {{hash=5f64b32e164398414aabe27f1af0140e}{%
-           family={Stojnic},
-           familyi={S\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-        {{hash=5b77dedc7f77ff84caad46064e6e3cbb}{%
-           family={Pineau},
-           familyi={P\bibinitperiod},
-           given={Joelle},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{1dab4f587ee0f208312b4e0c06a68fbf}
-      \strng{fullhash}{74ae2200ccc198099424ce43b002e504}
-      \strng{bibnamehash}{74ae2200ccc198099424ce43b002e504}
-      \strng{authorbibnamehash}{74ae2200ccc198099424ce43b002e504}
-      \strng{authornamehash}{1dab4f587ee0f208312b4e0c06a68fbf}
-      \strng{authorfullhash}{74ae2200ccc198099424ce43b002e504}
-      \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ReScience C}
-      \field{month}{5}
-      \field{number}{2}
-      \field{title}{{ML Reproducibility Challenge 2020}}
-      \field{type}{Editorial}
-      \field{volume}{7}
-      \field{year}{2021}
-      \field{pages}{#1}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.5281/zenodo.4833117
-      \endverb
-      \verb{urlraw}
-      \verb https://zenodo.org/record/4833117/files/article.pdf
-      \endverb
-      \verb{url}
-      \verb https://zenodo.org/record/4833117/files/article.pdf
-      \endverb
-      \keyw{machine learning,neurips,reproducibility challenge}
-    \endentry
-    \entry{Sinha:2020}{article}{}
-      \name{author}{5}{}{%
-        {{hash=f85e0bd769b7b8e65097523ebf9cdfa6}{%
-           family={Sinha},
-           familyi={S\bibinitperiod},
-           given={Koustuv},
-           giveni={K\bibinitperiod}}}%
-        {{hash=5b77dedc7f77ff84caad46064e6e3cbb}{%
-           family={Pineau},
-           familyi={P\bibinitperiod},
-           given={Joelle},
-           giveni={J\bibinitperiod}}}%
-        {{hash=22cd51d8d1743d6906b3f43080bfe56e}{%
-           family={Forde},
-           familyi={F\bibinitperiod},
-           given={Jessica},
-           giveni={J\bibinitperiod}}}%
-        {{hash=633c565ef872ee29f078e00ea30bc1fd}{%
-           family={Ke},
-           familyi={K\bibinitperiod},
-           given={Rosemary\bibnamedelima Nan},
-           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=42a970b0a0f1ed24b23064370cc9392f}{%
-           family={Larochelle},
-           familyi={L\bibinitperiod},
-           given={Hugo},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{1dab4f587ee0f208312b4e0c06a68fbf}
-      \strng{fullhash}{29ddb0e5b17f665f95edf965449de782}
-      \strng{bibnamehash}{29ddb0e5b17f665f95edf965449de782}
-      \strng{authorbibnamehash}{29ddb0e5b17f665f95edf965449de782}
-      \strng{authornamehash}{1dab4f587ee0f208312b4e0c06a68fbf}
-      \strng{authorfullhash}{29ddb0e5b17f665f95edf965449de782}
-      \field{extraname}{3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ReScience C}
-      \field{month}{5}
-      \field{number}{2}
-      \field{title}{{NeurIPS 2019 Reproducibility Challenge}}
-      \field{type}{Editorial}
-      \field{volume}{6}
-      \field{year}{2020}
-      \field{pages}{#11}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.5281/zenodo.3818627
-      \endverb
-      \verb{urlraw}
-      \verb https://zenodo.org/record/3818627/files/article.pdf
-      \endverb
-      \verb{url}
-      \verb https://zenodo.org/record/3818627/files/article.pdf
-      \endverb
-      \keyw{machine learning,neurips,reproducibility challenge}
-    \endentry
-    \entry{Pineau:2019}{article}{}
-      \name{author}{5}{}{%
-        {{hash=5b77dedc7f77ff84caad46064e6e3cbb}{%
-           family={Pineau},
-           familyi={P\bibinitperiod},
-           given={Joelle},
-           giveni={J\bibinitperiod}}}%
-        {{hash=f85e0bd769b7b8e65097523ebf9cdfa6}{%
-           family={Sinha},
-           familyi={S\bibinitperiod},
-           given={Koustuv},
-           giveni={K\bibinitperiod}}}%
-        {{hash=ad7f1a344c5532465c73fc62c1f796da}{%
-           family={Fried},
-           familyi={F\bibinitperiod},
-           given={Genevieve},
-           giveni={G\bibinitperiod}}}%
-        {{hash=633c565ef872ee29f078e00ea30bc1fd}{%
-           family={Ke},
-           familyi={K\bibinitperiod},
-           given={Rosemary\bibnamedelima Nan},
-           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=42a970b0a0f1ed24b23064370cc9392f}{%
-           family={Larochelle},
-           familyi={L\bibinitperiod},
-           given={Hugo},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{0cabd1481036b678a0753389d36fdb48}
-      \strng{fullhash}{be3c72977b29a69a62fd0c24d3bdb700}
-      \strng{bibnamehash}{be3c72977b29a69a62fd0c24d3bdb700}
-      \strng{authorbibnamehash}{be3c72977b29a69a62fd0c24d3bdb700}
-      \strng{authornamehash}{0cabd1481036b678a0753389d36fdb48}
-      \strng{authorfullhash}{be3c72977b29a69a62fd0c24d3bdb700}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ReScience C}
-      \field{month}{5}
-      \field{number}{2}
-      \field{title}{{ICLR Reproducibility Challenge 2019}}
-      \field{type}{Editorial}
-      \field{volume}{5}
-      \field{year}{2019}
-      \field{pages}{#5}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.5281/zenodo.3158244
-      \endverb
-      \verb{urlraw}
-      \verb https://zenodo.org/record/3158244/files/article.pdf
-      \endverb
-      \verb{url}
-      \verb https://zenodo.org/record/3158244/files/article.pdf
-      \endverb
-      \keyw{machine learning,ICLR,reproducibility challenge}
     \endentry
   \enddatalist
 \endrefsection

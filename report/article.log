@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.11.28)  28 NOV 2023 17:22
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.11.28)  28 NOV 2023 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1546,89 +1546,18 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'article.bbl' found.
 
 (./article.bbl
-! Illegal parameter number in definition of \NewValue.
-<to be read again> 
-                   4
-l.81       \field{pages}{#48}
-                             
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   4
-l.93     \endentry
-                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `RobotoCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-! Illegal parameter number in definition of \NewValue.
-<to be read again> 
-                   1
-l.145       \field{pages}{#1}
-                             
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   1
-l.157     \endentry
-                   
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \NewValue.
-<to be read again> 
-                   1
-l.204       \field{pages}{#11}
-                              
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   1
-l.216     \endentry
-                   
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \NewValue.
-<to be read again> 
-                   5
-l.262       \field{pages}{#5}
-                             
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   5
-l.274     \endentry
-                   
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
 )
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
  (./header.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
 
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -1649,214 +1578,25 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 )) (./summary.tex) [1
 
 ] (./content.tex
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   4
-l.8 }}
-      
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
+Overfull \hbox (10.32784pt too wide) in paragraph at lines 41--42
+\TU/SourceSerifPro(0)/m/n/10 The dataset can be downloaded from https://github.
+com/headacheboy/data-of-multimodal-
+ []
 
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   4
-l.8 }}
-      
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   1
-l.8 }}
-      
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   1
-l.8 }}
-      
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   5
-l.8 }}
-      
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-[2] [3])
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   4
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   4
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   4
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! You can't use `macro parameter character #' in horizontal mode.
-<argument> ##
-             48
-l.26 
-     
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   1
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   1
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   1
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! You can't use `macro parameter character #' in horizontal mode.
-<argument> ##
-             1
-l.26 
-     
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   1
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   1
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   1
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! You can't use `macro parameter character #' in horizontal mode.
-<argument> ##
-             11
-l.26 
-     
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Illegal parameter number in definition of \abx@field@pages.
-<to be read again> 
-                   5
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   5
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \blx@tempa.
-<to be read again> 
-                   5
-l.26 
-     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! You can't use `macro parameter character #' in horizontal mode.
-<argument> ##
-             5
-l.26 
-     
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-(./appendix.tex) [4] (./article.aux)
+[2] [3]) [4] (./appendix.tex) [5] (./article.aux)
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: EE6BE0CFB55732403BED0D849B6348B7;2846.
+(rerunfilecheck)             Checksum: 6C26100D83B5C4315FAE57026167BB44;2069.
 Package logreq Info: Writing requests to 'article.run.xml'.
 \openout1 = `article.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41231 strings out of 478190
- 859352 string characters out of 5854826
- 1696982 words of memory out of 5000000
- 61172 multiletter control sequences out of 15000+600000
- 475317 words of font info for 101 fonts, out of 8000000 for 9000
+ 41243 strings out of 478190
+ 859476 string characters out of 5854826
+ 1696191 words of memory out of 5000000
+ 61183 multiletter control sequences out of 15000+600000
+ 476379 words of font info for 107 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,17n,118p,1152b,4772s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,17n,118p,1434b,5023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on article.pdf (4 pages).
+Output written on article.pdf (5 pages).
