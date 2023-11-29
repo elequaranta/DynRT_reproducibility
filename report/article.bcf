@@ -2345,7 +2345,11 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">tian-etal-2023-dynamic</bcf:citekey>
-    <bcf:citekey order="2">tian-etal-2023-dynamic</bcf:citekey>
+    <bcf:citekey order="2">RoBERTa</bcf:citekey>
+    <bcf:citekey order="3">ViT</bcf:citekey>
+    <bcf:citekey order="4">tian-etal-2023-dynamic</bcf:citekey>
+    <bcf:citekey order="5">RoBERTa</bcf:citekey>
+    <bcf:citekey order="6">ViT</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.11.28)  28 NOV 2023 19:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.11.28)  28 NOV 2023 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1577,26 +1577,26 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )) (./summary.tex) [1
 
-] (./content.tex
+] (./content.tex [2]
 Overfull \hbox (10.32784pt too wide) in paragraph at lines 41--42
 \TU/SourceSerifPro(0)/m/n/10 The dataset can be downloaded from https://github.
 com/headacheboy/data-of-multimodal-
  []
 
-[2] [3]) [4] (./appendix.tex) [5] (./article.aux)
+[3] [4]) (./appendix.tex) [5] (./article.aux)
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: 6C26100D83B5C4315FAE57026167BB44;2069.
+(rerunfilecheck)             Checksum: EB6666C0F467325A376556DAAFDFAA23;2069.
 Package logreq Info: Writing requests to 'article.run.xml'.
 \openout1 = `article.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41243 strings out of 478190
- 859476 string characters out of 5854826
- 1696191 words of memory out of 5000000
- 61183 multiletter control sequences out of 15000+600000
- 476379 words of font info for 107 fonts, out of 8000000 for 9000
+ 41248 strings out of 478190
+ 859583 string characters out of 5854826
+ 1694271 words of memory out of 5000000
+ 61189 multiletter control sequences out of 15000+600000
+ 476371 words of font info for 106 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,17n,118p,1434b,5023s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,17n,118p,1434b,4869s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on article.pdf (5 pages).
