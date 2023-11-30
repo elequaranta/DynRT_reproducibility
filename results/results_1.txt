@@ -1,5 +1,15 @@
 EPOCH 1:
-
+    Train:
+        F1: 0.5819
+        Precision: 0.6054
+        Recall: 0.5602
+        Accuracy: 0.6079
+    Test:
+        F1: 0.4373
+        Precision: 0.6394
+        Recall: 0.3323
+        Accuracy: 0.6660
+    Loss: 0.6301
 ------------------------------
 EPOCH 2:
     Train:

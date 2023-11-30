@@ -1,0 +1,195 @@
+EPOCH 1:
+    Train:
+        F1: 0.5840
+        Precision: 0.6052
+        Recall: 0.5886
+        Accuracy: 0.6167
+    Test:
+        F1: 0.4429
+        Precision: 0.6295
+        Recall: 0.3416
+        Accuracy: 0.6650
+    Loss: 0.6309
+------------------------------
+EPOCH 2:
+    Train:
+        F1: 0.6627
+        Precision: 0.6751
+        Recall: 0.6612
+        Accuracy: 0.6802
+    Test:
+        F1: 0.5615
+        Precision: 0.6193
+        Recall: 0.5135
+        Accuracy: 0.6873
+    Loss: 0.6166
+-------------------------------
+EPOCH 3:
+    Train:
+        F1: 0.6831
+        Precision: 0.6869
+        Recall: 0.6816
+        Accuracy: 0.6936
+    Test:
+        F1: 0.5749
+        Precision: 0.6097
+        Recall: 0.5438
+        Accuracy: 0.6865
+    Loss: 0.6101
+-------------------------------
+EPOCH 4:
+    Train:
+        F1: 0.6926
+        Precision: 0.6949
+        Recall: 0.6913
+        Accuracy: 0.7014
+    Test:
+        F1: 0.5978
+        Precision: 0.6149
+        Recall: 0.5816
+        Accuracy: 0.6949
+    Loss: 0.6060
+-------------------------------
+EPOCH 5:
+    Train:
+        F1: 0.6964
+        Precision: 0.6977
+        Recall: 0.6956
+        Accuracy: 0.7041
+    Test:
+        F1: 0.6116
+        Precision: 0.6190
+        Recall: 0.6043
+        Accuracy: 0.7008
+    Loss: 0.6023
+-------------------------------
+EPOCH 6:
+    Train:
+        F1: 0.7028
+        Precision: 0.7039
+        Recall: 0.7020
+        Accuracy: 0.7102
+    Test:
+        F1: 0.6303
+        Precision: 0.6179
+        Recall: 0.6432
+        Accuracy: 0.7059
+    Loss: 0.5992
+-------------------------------
+EPOCH 7:
+    Train:
+        F1: 0.7107
+        Precision: 0.7112
+        Recall: 0.7102
+        Accuracy: 0.7172
+    Test:
+        F1: 0.6395
+        Precision: 0.6256
+        Recall: 0.6541
+        Accuracy: 0.7126
+    Loss: 0.5937
+-------------------------------
+EPOCH 8:
+    Train:
+        F1: 0.7168
+        Precision: 0.7172
+        Recall: 0.7165
+        Accuracy: 0.7230
+    Test:
+        F1: 0.6522
+        Precision: 0.6371
+        Recall: 0.6681
+        Accuracy: 0.7223
+    Loss: 0.5862
+-------------------------------
+EPOCH 9:
+    Train:
+        F1: 0.7275
+        Precision: 0.7279
+        Recall: 0.7271
+        Accuracy: 0.7335
+    Test:
+        F1: 0.6769
+        Precision: 0.6448
+        Recall: 0.7124
+        Accuracy: 0.7349
+    Loss: 0.5751
+-------------------------------
+EPOCH 10:
+    Train:
+        F1: 0.7481
+        Precision: 0.7485
+        Recall: 0.7478
+        Accuracy: 0.7536
+    Test:
+        F1: 0.7348
+        Precision: 0.6932
+        Recall: 0.7816
+        Accuracy: 0.7800
+    Loss: 0.5272
+-------------------------------
+EPOCH 11:
+    Train:
+        F1: 0.8634
+        Precision: 0.8650
+        Recall: 0.8620
+        Accuracy: 0.8667
+    Test:
+        F1: 0.9146
+        Precision: 0.8929
+        Recall: 0.9373
+        Accuracy: 0.9317
+    Loss: 0.3795
+-------------------------------
+EPOCH 12:
+    Train:
+        F1: 0.9779
+        Precision: 0.9790
+        Recall: 0.9769
+        Accuracy: 0.9784
+    Test:
+        F1: 0.9183
+        Precision: 0.9011
+        Recall: 0.9362
+        Accuracy: 0.9351
+    Loss: 0.3642
+-------------------------------
+EPOCH 13:
+    Train:
+        F1: 0.9819
+        Precision: 0.9829
+        Recall: 0.9810
+        Accuracy: 0.9823
+    Test:
+        F1: 0.9188
+        Precision: 0.9021
+        Recall: 0.9362
+        Accuracy: 0.9355
+    Loss: 0.3621
+-------------------------------
+EPOCH 14:
+    Train:
+        F1: 0.9822
+        Precision: 0.9831
+        Recall: 0.9813
+        Accuracy: 0.9826
+    Test:
+        F1: 0.9188
+        Precision: 0.9021
+        Recall: 0.9362
+        Accuracy: 0.9355
+    Loss: 0.3618
+-------------------------------
+EPOCH 15:
+    Train:
+        F1: 0.9825
+        Precision: 0.9834
+        Recall: 0.9817
+        Accuracy: 0.9829
+    Test:
+        F1: 0.9193
+        Precision: 0.9030
+        Recall: 0.9362
+        Accuracy: 0.9359
+    Loss: 0.3614
+-------------------------------
