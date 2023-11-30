@@ -35,7 +35,7 @@
             },
             "batch_size": 32,
             "pin_memory": true,
-            "num_workers": 0,
+            "num_workers": 10,
             "shuffle": true
         },
         "mode": [
