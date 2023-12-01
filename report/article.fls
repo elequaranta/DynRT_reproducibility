@@ -1381,6 +1381,15 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT ./images/Accuracy.png
+INPUT ./images/Accuracy.png
+INPUT images/Accuracy.png
+INPUT ./images/F1.png
+INPUT ./images/F1.png
+INPUT images/F1.png
+INPUT ./images/Loss.png
+INPUT ./images/Loss.png
+INPUT images/Loss.png
 INPUT ./appendix.tex
 INPUT ./appendix.tex
 INPUT ./appendix.tex
